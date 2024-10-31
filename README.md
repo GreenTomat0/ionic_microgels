@@ -12,4 +12,4 @@ Mean square displacement (MSD)
 Non-Gaussian parameter (NGP)
 MSD curve slopes
 Volume fractions of samples, and more.
-The research article is currently in preparation, and more details can be accessed on Overleaf: Overleaf Project.
+The research article is currently in preparation, and more details can be accessed on Overleaf: <a href="https://www.overleaf.com/project/66a6294ee3101c3f34eb650f">Overleaf Project</a>.
