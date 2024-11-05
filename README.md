@@ -5,9 +5,9 @@ This project explores the structural ordering and dynamics of ionic microgels ac
 
 Analysis of the confocal microscopy measurements includes:
 
-Image processing in ImageJ
-Particle tracking using Trackpy (<a href="https://pypi.org/project/trackpy/">Trackpy on PyPI</a>)
-Calculations for:
+Image processing in ImageJ<br>
+Particle tracking using Trackpy (<a href="https://pypi.org/project/trackpy/">Trackpy on PyPI</a>)<br>
+Calculations for:<br>
 Mean square displacement (MSD)
 Non-Gaussian parameter (NGP)
 MSD curve slopes
