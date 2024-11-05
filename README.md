@@ -7,13 +7,10 @@ Analysis of the confocal microscopy measurements includes:
 <ul>
   <li>Image processing in ImageJ</li>
   <li>Particle tracking using Trackpy (<a href="https://pypi.org/project/trackpy/">Trackpy on PyPI</a>)</li>
-</ul>
-Calculations for:
-<ul>
-<li>Mean square displacement (MSD)</li>
-<li>Non-Gaussian parameter (NGP)</li>
-<li>MSD curve slopes</li>
-<li>Volume fractions of samples</li>
-<li>Defining of clusters, and more.</li>
+  <li>Mean Square Shift (MSD) (to distinguish liquid mode from transient and glass mode)</li>
+  <li>Non-Gaussian parameter (NGP) (distinguish the level of heterogeneity of particles under the influence of different external conditions)</li>
+  <li>MSD curve slopes</li>
+  <li>Volume fractions of samples</li>
+  <li>Defining of clusters, and more.</li>
 </ul>
 The research article is currently in preparation, the draft is here: <a href="https://drive.google.com/file/d/1XVsjv-DAUPZjPdf9uDfZ-vOQRdJsHS9n/view?usp=sharing">Ionic microgels draft</a>.
