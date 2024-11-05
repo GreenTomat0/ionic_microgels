@@ -13,4 +13,4 @@ Analysis of the confocal microscopy measurements includes:
   <li>Volume fractions of samples</li>
   <li>Defining of clusters, and more.</li>
 </ul>
-The research article is currently in preparation, the draft is here: <a href="https://drive.google.com/file/d/1XVsjv-DAUPZjPdf9uDfZ-vOQRdJsHS9n/view?usp=sharing">Ionic microgels draft</a>.
+The research article is currently in preparation, the draft is here: <a href="https://drive.google.com/drive/folders/15x6uynrbaqqsWI2IenTuyEZYNHiSdEJj?usp=drive_link">Ionic microgels draft</a>.
